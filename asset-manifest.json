@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/LiminalSpiritLevelEditor/static/css/main.f56dcc42.chunk.css",
-    "main.js": "/LiminalSpiritLevelEditor/static/js/main.bd1d47c0.chunk.js",
-    "main.js.map": "/LiminalSpiritLevelEditor/static/js/main.bd1d47c0.chunk.js.map",
-    "runtime-main.js": "/LiminalSpiritLevelEditor/static/js/runtime-main.13ad4dcd.js",
-    "runtime-main.js.map": "/LiminalSpiritLevelEditor/static/js/runtime-main.13ad4dcd.js.map",
-    "static/js/2.bcbe4c01.chunk.js": "/LiminalSpiritLevelEditor/static/js/2.bcbe4c01.chunk.js",
-    "static/js/2.bcbe4c01.chunk.js.map": "/LiminalSpiritLevelEditor/static/js/2.bcbe4c01.chunk.js.map",
-    "static/js/3.8ec8c56b.chunk.js": "/LiminalSpiritLevelEditor/static/js/3.8ec8c56b.chunk.js",
-    "static/js/3.8ec8c56b.chunk.js.map": "/LiminalSpiritLevelEditor/static/js/3.8ec8c56b.chunk.js.map",
+    "main.js": "/LiminalSpiritLevelEditor/static/js/main.cfc76cdf.chunk.js",
+    "main.js.map": "/LiminalSpiritLevelEditor/static/js/main.cfc76cdf.chunk.js.map",
+    "runtime-main.js": "/LiminalSpiritLevelEditor/static/js/runtime-main.ee3f17a2.js",
+    "runtime-main.js.map": "/LiminalSpiritLevelEditor/static/js/runtime-main.ee3f17a2.js.map",
+    "static/js/2.c61c9854.chunk.js": "/LiminalSpiritLevelEditor/static/js/2.c61c9854.chunk.js",
+    "static/js/2.c61c9854.chunk.js.map": "/LiminalSpiritLevelEditor/static/js/2.c61c9854.chunk.js.map",
+    "static/js/3.878b37f9.chunk.js": "/LiminalSpiritLevelEditor/static/js/3.878b37f9.chunk.js",
+    "static/js/3.878b37f9.chunk.js.map": "/LiminalSpiritLevelEditor/static/js/3.878b37f9.chunk.js.map",
     "index.html": "/LiminalSpiritLevelEditor/index.html",
     "static/css/main.f56dcc42.chunk.css.map": "/LiminalSpiritLevelEditor/static/css/main.f56dcc42.chunk.css.map",
-    "static/js/2.bcbe4c01.chunk.js.LICENSE.txt": "/LiminalSpiritLevelEditor/static/js/2.bcbe4c01.chunk.js.LICENSE.txt",
+    "static/js/2.c61c9854.chunk.js.LICENSE.txt": "/LiminalSpiritLevelEditor/static/js/2.c61c9854.chunk.js.LICENSE.txt",
     "static/media/blank.67dd73c0.jpg": "/LiminalSpiritLevelEditor/static/media/blank.67dd73c0.jpg",
     "static/media/buffalo.d08b9081.png": "/LiminalSpiritLevelEditor/static/media/buffalo.d08b9081.png",
     "static/media/chef.794fd491.png": "/LiminalSpiritLevelEditor/static/media/chef.794fd491.png",
@@ -35,9 +35,9 @@
     "static/media/tutorial_toaster.2b7bc100.png": "/LiminalSpiritLevelEditor/static/media/tutorial_toaster.2b7bc100.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.13ad4dcd.js",
-    "static/js/2.bcbe4c01.chunk.js",
+    "static/js/runtime-main.ee3f17a2.js",
+    "static/js/2.c61c9854.chunk.js",
     "static/css/main.f56dcc42.chunk.css",
-    "static/js/main.bd1d47c0.chunk.js"
+    "static/js/main.cfc76cdf.chunk.js"
   ]
 }
