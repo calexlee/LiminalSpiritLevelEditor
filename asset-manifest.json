@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/LiminalSpiritLevelEditor/static/css/main.f56dcc42.chunk.css",
-    "main.js": "/LiminalSpiritLevelEditor/static/js/main.cfc76cdf.chunk.js",
-    "main.js.map": "/LiminalSpiritLevelEditor/static/js/main.cfc76cdf.chunk.js.map",
+    "main.js": "/LiminalSpiritLevelEditor/static/js/main.9de203b4.chunk.js",
+    "main.js.map": "/LiminalSpiritLevelEditor/static/js/main.9de203b4.chunk.js.map",
     "runtime-main.js": "/LiminalSpiritLevelEditor/static/js/runtime-main.ee3f17a2.js",
     "runtime-main.js.map": "/LiminalSpiritLevelEditor/static/js/runtime-main.ee3f17a2.js.map",
     "static/js/2.c61c9854.chunk.js": "/LiminalSpiritLevelEditor/static/js/2.c61c9854.chunk.js",
@@ -15,17 +15,22 @@
     "static/media/blank.67dd73c0.jpg": "/LiminalSpiritLevelEditor/static/media/blank.67dd73c0.jpg",
     "static/media/buffalo.d08b9081.png": "/LiminalSpiritLevelEditor/static/media/buffalo.d08b9081.png",
     "static/media/chef.794fd491.png": "/LiminalSpiritLevelEditor/static/media/chef.794fd491.png",
+    "static/media/circle.0c29e141.png": "/LiminalSpiritLevelEditor/static/media/circle.0c29e141.png",
     "static/media/fire.439e72fd.png": "/LiminalSpiritLevelEditor/static/media/fire.439e72fd.png",
+    "static/media/glutton.ff5b4314.png": "/LiminalSpiritLevelEditor/static/media/glutton.ff5b4314.png",
     "static/media/hot_chick.92ae133a.png": "/LiminalSpiritLevelEditor/static/media/hot_chick.92ae133a.png",
+    "static/media/lost.b1da7e17.png": "/LiminalSpiritLevelEditor/static/media/lost.b1da7e17.png",
     "static/media/lure.8e7fccb1.png": "/LiminalSpiritLevelEditor/static/media/lure.8e7fccb1.png",
-    "static/media/mirror.47959cbc.png": "/LiminalSpiritLevelEditor/static/media/mirror.47959cbc.png",
     "static/media/nugget.37f06f21.png": "/LiminalSpiritLevelEditor/static/media/nugget.37f06f21.png",
-    "static/media/player.87f7a227.png": "/LiminalSpiritLevelEditor/static/media/player.87f7a227.png",
+    "static/media/player.eb3bce71.png": "/LiminalSpiritLevelEditor/static/media/player.eb3bce71.png",
+    "static/media/seeker.47959cbc.png": "/LiminalSpiritLevelEditor/static/media/seeker.47959cbc.png",
     "static/media/shredded_chicken.100b080a.png": "/LiminalSpiritLevelEditor/static/media/shredded_chicken.100b080a.png",
     "static/media/slow.ccf6ce6e.png": "/LiminalSpiritLevelEditor/static/media/slow.ccf6ce6e.png",
     "static/media/spawn.c74c32c2.png": "/LiminalSpiritLevelEditor/static/media/spawn.c74c32c2.png",
     "static/media/specter.15b41021.png": "/LiminalSpiritLevelEditor/static/media/specter.15b41021.png",
+    "static/media/square.43511249.png": "/LiminalSpiritLevelEditor/static/media/square.43511249.png",
     "static/media/stove.e680c856.png": "/LiminalSpiritLevelEditor/static/media/stove.e680c856.png",
+    "static/media/triangle.01789bc8.png": "/LiminalSpiritLevelEditor/static/media/triangle.01789bc8.png",
     "static/media/tutorial_cook.a55e4d8a.png": "/LiminalSpiritLevelEditor/static/media/tutorial_cook.a55e4d8a.png",
     "static/media/tutorial_cooler.f796ca3b.png": "/LiminalSpiritLevelEditor/static/media/tutorial_cooler.f796ca3b.png",
     "static/media/tutorial_hotsauce.9408068e.png": "/LiminalSpiritLevelEditor/static/media/tutorial_hotsauce.9408068e.png",
@@ -38,6 +43,6 @@
     "static/js/runtime-main.ee3f17a2.js",
     "static/js/2.c61c9854.chunk.js",
     "static/css/main.f56dcc42.chunk.css",
-    "static/js/main.cfc76cdf.chunk.js"
+    "static/js/main.9de203b4.chunk.js"
   ]
 }
