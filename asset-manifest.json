@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/LiminalSpiritLevelEditor/static/css/main.f56dcc42.chunk.css",
-    "main.js": "/LiminalSpiritLevelEditor/static/js/main.ff084397.chunk.js",
-    "main.js.map": "/LiminalSpiritLevelEditor/static/js/main.ff084397.chunk.js.map",
+    "main.js": "/LiminalSpiritLevelEditor/static/js/main.e7067685.chunk.js",
+    "main.js.map": "/LiminalSpiritLevelEditor/static/js/main.e7067685.chunk.js.map",
     "runtime-main.js": "/LiminalSpiritLevelEditor/static/js/runtime-main.ee3f17a2.js",
     "runtime-main.js.map": "/LiminalSpiritLevelEditor/static/js/runtime-main.ee3f17a2.js.map",
     "static/js/2.c61c9854.chunk.js": "/LiminalSpiritLevelEditor/static/js/2.c61c9854.chunk.js",
@@ -43,6 +43,6 @@
     "static/js/runtime-main.ee3f17a2.js",
     "static/js/2.c61c9854.chunk.js",
     "static/css/main.f56dcc42.chunk.css",
-    "static/js/main.ff084397.chunk.js"
+    "static/js/main.e7067685.chunk.js"
   ]
 }
