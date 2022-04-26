@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/LiminalSpiritLevelEditor/static/css/main.f56dcc42.chunk.css",
-    "main.js": "/LiminalSpiritLevelEditor/static/js/main.e7067685.chunk.js",
-    "main.js.map": "/LiminalSpiritLevelEditor/static/js/main.e7067685.chunk.js.map",
+    "main.js": "/LiminalSpiritLevelEditor/static/js/main.0423bf71.chunk.js",
+    "main.js.map": "/LiminalSpiritLevelEditor/static/js/main.0423bf71.chunk.js.map",
     "runtime-main.js": "/LiminalSpiritLevelEditor/static/js/runtime-main.ee3f17a2.js",
     "runtime-main.js.map": "/LiminalSpiritLevelEditor/static/js/runtime-main.ee3f17a2.js.map",
     "static/js/2.c61c9854.chunk.js": "/LiminalSpiritLevelEditor/static/js/2.c61c9854.chunk.js",
@@ -27,6 +27,7 @@
     "static/media/shredded_chicken.100b080a.png": "/LiminalSpiritLevelEditor/static/media/shredded_chicken.100b080a.png",
     "static/media/slow.ccf6ce6e.png": "/LiminalSpiritLevelEditor/static/media/slow.ccf6ce6e.png",
     "static/media/spawn.c74c32c2.png": "/LiminalSpiritLevelEditor/static/media/spawn.c74c32c2.png",
+    "static/media/spawner.34cd1419.jpg": "/LiminalSpiritLevelEditor/static/media/spawner.34cd1419.jpg",
     "static/media/specter.f63f16cd.png": "/LiminalSpiritLevelEditor/static/media/specter.f63f16cd.png",
     "static/media/square.43511249.png": "/LiminalSpiritLevelEditor/static/media/square.43511249.png",
     "static/media/stove.e680c856.png": "/LiminalSpiritLevelEditor/static/media/stove.e680c856.png",
@@ -43,6 +44,6 @@
     "static/js/runtime-main.ee3f17a2.js",
     "static/js/2.c61c9854.chunk.js",
     "static/css/main.f56dcc42.chunk.css",
-    "static/js/main.e7067685.chunk.js"
+    "static/js/main.0423bf71.chunk.js"
   ]
 }
